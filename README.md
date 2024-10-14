@@ -7,7 +7,6 @@ This project provides a practical comparison between two prominent deep learning
 ├── data/                   # Folder for dataset storage (if applicable)
 ├── notebooks/              # Jupyter notebooks with experiments
 ├── models/                 # Trained models
-├── scripts/                # Python scripts for training and evaluation
 ├── README.md               # Project overview and instructions (this file)
 └── requirements.txt        # Required libraries
 ```
